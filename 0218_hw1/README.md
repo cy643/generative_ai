@@ -4,4 +4,5 @@
 心電圖曲線  
 數學表達式：y = x + (np.exp(theta)-(2 * x * np.sin(theta)))/(np.sin(theta)-np.cos(theta)  
 
-![image]("https://github.com/user-attachments/assets/7b1a9bd5-5060-4644-a364-477436d73fe9")  
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/a4655104-8fc2-470a-bcd2-53d69c039e76" />
+
