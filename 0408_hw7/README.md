@@ -1,10 +1,10 @@
 ## 0408_hw7 實作RAG系統。
 蒐集arxiv上與自動駕駛相關的一百筆文獻標題與摘要做自動駕駛問答RAG系統
 
-### 收集資料集並轉換成向量
+### 收集資料集並轉換成向量(chatGPT生成蒐集腳本)
 <img width="335" alt="0408_hw7_dataset" src="https://github.com/user-attachments/assets/a14d7bd6-7a02-4def-9990-349bf210b4c7" />  
 
-### 從goolge drive下載向量資料集
+### 從google drive下載向量資料集
 https://drive.google.com/uc?export=download&id=1e23zrST2JmdavrUXPSHdWJVw1m3j8kw_
 
 ### prompt設定
