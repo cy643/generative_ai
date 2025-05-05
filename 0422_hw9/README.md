@@ -3,7 +3,7 @@
 ## 使用風格
 - 簡約現代設計風格（Minimalist Modern Design Style）
 
-- 斯堪地那維亞風格啟發（Scandinavian-Inspired）
+- 斯堪地那維亞設計（Scandinavian-Inspired）
 
 - 筆觸乾淨且帶有柔和漸層（With Clean Brush Strokes and Soft Gradients）
 
