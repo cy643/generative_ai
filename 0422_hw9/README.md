@@ -8,7 +8,7 @@
 - 筆觸乾淨且帶有柔和漸層（With Clean Brush Strokes and Soft Gradients）
 
 ## 生成結果
-1. A cat sitting on a windowsill, minimalist modern design style, Scandinavian-inspired, with clean brush strokes and soft gradients
+1. A cat sitting on a windowsill, minimalist modern design style, Scandinavian-inspired, with clean brush strokes and soft gradients  
 ![0422_hw9_A cat sitting on a windowsill_](https://github.com/user-attachments/assets/532cfdde-b3bd-4678-8867-2a9925352269)
 2. A man walking alone in a futuristic cityscape and  rain-soaked alleys, minimalist modern design style, Scandinavian-inspired, with clean brush strokes and soft gradients  
 ![0422_hw9_A man walking alone in a futuristic cityscape and  rain-soaked alleys_](https://github.com/user-attachments/assets/1d344650-3c4e-42b6-802b-5f3292c600f6)
